@@ -1,0 +1,46 @@
+<!--<resources>--><!--<string name="app_name">DiceRoller-Solution</string>--><!--</resources>-->
+
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="action_roll">Roll</string>
+    <string name="action_one">One</string>
+    <string name="action_two">Two</string>
+    <string name="action_three">Three</string>
+    <string name="action_four">Four</string>
+    <string name="action_five">Five</string>
+    <string name="action_color">Color...</string>
+    <string name="action_about">About</string>
+    <string name="action_stop">Stop</string>
+    <string name="dice_one">1</string>
+
+    <string-array name="length_array">
+        <item>Short</item>
+        <item>Medium</item>
+        <item>Long</item>
+    </string-array>
+
+    <string-array name="dice_selection">
+        <item>4 Sided Dice</item>
+        <item>6 Sided Dice</item>
+        <item>10 Sided Dice</item>
+    </string-array>
+
+    <string-array name="color_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Magenta</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_roll_length">Pick Roll Length</string>
+
+    <string name="add_one">Add One</string>
+    <string name="subtract_one">Subtract One</string>
+    <string name="change_dice">Change Dice</string>
+    <string name="roll">Roll</string>
+
+</resources>

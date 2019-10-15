@@ -10,7 +10,7 @@ https://github.com/jlinares1/Dice_Roller_App.git
 
 * Android Studios 
 
-## Content
+### Content
 
-![poster-list-1]()
+![home](artwork/diceAppPhoto1.PNG)  ![dice 4](artwork/diceAppPhoto2.PNG)
 

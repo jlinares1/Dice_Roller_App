@@ -26,4 +26,4 @@ https://github.com/jlinares1/Dice_Roller_App.git
 
 ### Add One - Subtract One - Change dice
 
-![long press](artwork/longPress.PNG)  ![long press 2](changeDice.PNG)
+![long press](artwork/longPress.PNG)  ![long press 2](artwork/changeDice.PNG)
